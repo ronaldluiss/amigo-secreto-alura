@@ -3,7 +3,7 @@
 ![Made with JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-yellow?logo=javascript)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-Este código em JavaScript cria um sorteador de Amigo Secreto simples, onde os participantes podem ser adicionados a uma lista, e o sistema realiza a seleção aleatória de um amigo para cada participante. Desenvolvido no programa One, Uma parceria entre Oracle e Alura.
+Este código em JavaScript cria um sorteador de Amigo Secreto simples, onde os participantes podem ser adicionados a uma lista, e o sistema realiza a seleção aleatória de um amigo para cada participante. Desenvolvido no programa One, uma parceria entre Oracle e Alura.
 
 ## 📌 Funcionalidades
 - Adicionar amigos à lista
