@@ -1,4 +1,4 @@
-# 🎁 Amigo Secreto Alura
+# 🎁 Amigo Secreto
 
 ![Made with JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-yellow?logo=javascript)
 ![License](https://img.shields.io/badge/license-MIT-green)
