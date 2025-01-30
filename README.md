@@ -39,9 +39,6 @@ A criação de um novo elemento na lista foi um problema que enfrentei mas com a
 Assim que terminei o projeto fiquei muito satisfeito com o meu desempenho, principalmente por ser o meu primeiro projeto em Javascript, estou ansioso pelos próximos e também para adquirir mais conhecimento!
 
 
-## 📜 Licença
-Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ---
 Feito com carinho ❤️ por Ronald Luis — 'O futuro pertence àqueles que acreditam na beleza de seus sonhos.' — Eleanor Roosevelt
 (https://github.com/ronaldluiss)
